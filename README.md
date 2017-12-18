@@ -13,3 +13,5 @@ Creating a new branch is quick and simple
 add sth new on master
 
 add sth new on dev branch (merge here)
+
+add sth from lubuntu and dev2
