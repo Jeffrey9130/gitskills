@@ -9,4 +9,7 @@ add sth on a new branch
 
 Creating a new branch is quick and simple
 
+
 add sth new on master
+
+add sth new on dev branch (merge here)
